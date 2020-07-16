@@ -1,5 +1,5 @@
 ![](./carbon.png)
-
+## jerome scuggs - ceo, scuggscorp industries
 <!--
 **jeromescuggs/jeromescuggs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
