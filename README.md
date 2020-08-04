@@ -1,2 +1,2 @@
-![header](https://raw.githubusercontent.com/jeromescuggs/monoeye/master/carbon%20(1).png)
+![header](https://github.com/jeromescuggs/monoeye/blob/master/carbon-3.png)
 ## jerome scuggs - ceo, scuggscorp industries
